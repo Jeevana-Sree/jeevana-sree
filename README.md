@@ -26,8 +26,7 @@
 
 ### 🧠 Skills
 
-- **Languages**: Python, Bash, JavaScript  
-- **Frameworks**: Flask, React, Node.js  
+- **Languages**: Python, SQL, Java 
 - **DevOps & Cloud**: Docker, Jenkins, GitHub Actions, AWS, CI/CD  
 - **Database**: MySQL, PostgreSQL  
 - **ML & Data Science**: Scikit-learn, Pandas, NumPy, Matplotlib, NLTK  
