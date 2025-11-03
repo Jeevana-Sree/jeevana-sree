@@ -1,81 +1,67 @@
-# 👋 Hey, I'm Jeevana Sree Bachala  
+# Hey, I'm Jeevana Sree Bachala
 
 **SDE Intern @ [ConverseNow AI](https://www.conversenow.ai/)**  
-💡 Currently learning, building, and breaking things around **AI, Go, and DevOps**  
+Building things at the intersection of **AI, Go, and DevOps**.
 
 ---
 
-## 🌿 About Me  
- 
-Who believes that AI can (and should) make life simpler, not harder?  
-Who occasionally celebrates when a pipeline finally runs without errors? 🙋‍♀️  
+### About Me
 
-Hi, that’s me — Jeevana.  
-I enjoy building things that make machines understand us better.  
-Right now, I’m working with **Golang backend systems** and learning how **AI pipelines** fit together end to end.  
-Mostly curious, sometimes experimental, always trying to make something work just a little better.
+Who’s the one fixing containers when everyone else has logged off?  
+Who believes good systems are built one small improvement at a time?  
+That would be me — Jeevana.
 
----
-
-## ⚙️ What I’m Doing  
-
-- 💻 Working as an **SDE Intern at ConverseNow AI**  
-- 🧩 Learning **Go**, **Python**, and the art of making systems talk to each other  
-- 🐳 Playing around with **Docker, CI/CD pipelines, and backend automation**  
-- 📘 Reading up on **agentic and passive AI systems** to understand how they evolve  
+I like building things that make technology feel simple and useful.  
+Right now, I’m learning how AI pipelines, backend systems, and automation tie everything together.  
+Mostly curious, often experimenting, and always learning something new.
 
 ---
 
-## 🧰 Tech Stack  
+### What I'm Working On
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+- Working on backend modules in **Go**  
+- Learning the nuts and bolts of **AI systems** and **DevOps pipelines**  
+- Exploring how automation can make products faster and smarter
 
 ---
 
-## 🚀 Featured Projects  
+### Tech Stack
 
-🔹 **[Echo Task](https://github.com/Jeevana-Sree/echo-task)**  
-A browser-based speech-to-reminder system that uses NLP, PostgreSQL, and Docker with CI/CD setup.  
-
-🔹 **[Drone Flight Prediction](https://github.com/Jeevana-Sree/Drone-Flight-Prediction)**  
-Predicts drone flight time using machine learning and real-world flight data.  
-
-🔹 **[Smart Combo Meal Generator](https://github.com/Jeevana-Sree/Intelligent-Food-Combo-Generator-and-Price-Optimization)**  
-Recommends optimized meal combos and predicts prices using clustering + regression.  
+| Category | Tools |
+|-----------|-------|
+| Languages | Go, Python |
+| DevOps | Docker, Jenkins, GitHub Actions |
+| Databases | PostgreSQL |
+| Concepts | CI/CD, REST APIs, AI Pipelines |
 
 ---
 
-## ☕ Outside of Work  
+### Featured Projects
 
-When I’m not staring at logs or training models,  
-you’ll find me learning something random, sketching ideas, or just fixing that one line of code that refuses to work.  
+**[Echo Task](https://github.com/Jeevana-Sree/echo-task)**  
+Voice-based task manager using NLP, PostgreSQL, and Docker.  
 
----
+**[Drone Flight Prediction](https://github.com/Jeevana-Sree/Drone-Flight-Prediction)**  
+Predicts drone flight time using real-world data and ML models.  
 
-## 📫 Get in Touch  
-
-<p align="left">
-  <a href="mailto:Jeevanasree2k3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jeevanasreeb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+**[Smart Combo Meal Generator](https://github.com/Jeevana-Sree/Intelligent-Food-Combo-Generator-and-Price-Optimization)**  
+Suggests meal combinations and predicts prices using clustering and regression.  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jeevana-Sree&label=Profile%20Views&color=gray&style=flat" alt="profile views" />  
-</p>
+### Achievements
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jeevana-Sree&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+- Patent: *Autonomous Drone-Based Forest Monitoring System*  
+- NPTEL Certified in *Natural Language Processing*  
+- Built interactive dashboards for *Customer Segmentation* and *Marketing ROI*
 
 ---
 
-⭐️ *Always curious. Always building.*
+### Get in Touch
+
+- **Email:** [Jeevanasree2k3@gmail.com](mailto:Jeevanasree2k3@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/jeevanasreeb](https://www.linkedin.com/in/jeevanasreeb/)
+
+---
+
+_Always curious. Always building._
