@@ -1,78 +1,81 @@
-<h1 align="center">Hi there 👋 I'm Jeevana Sree</h1>
+# 👋 Hey, I'm Jeevana Sree Bachala  
+
+**SDE Intern @ [ConverseNow AI](https://www.conversenow.ai/)**  
+💡 Currently learning, building, and breaking things around **AI, Go, and DevOps**  
+
+---
+
+## 🌿 About Me  
+ 
+Who believes that AI can (and should) make life simpler, not harder?  
+Who occasionally celebrates when a pipeline finally runs without errors? 🙋‍♀️  
+
+Hi, that’s me — Jeevana.  
+I enjoy building things that make machines understand us better.  
+Right now, I’m working with **Golang backend systems** and learning how **AI pipelines** fit together end to end.  
+Mostly curious, sometimes experimental, always trying to make something work just a little better.
+
+---
+
+## ⚙️ What I’m Doing  
+
+- 💻 Working as an **SDE Intern at ConverseNow AI**  
+- 🧩 Learning **Go**, **Python**, and the art of making systems talk to each other  
+- 🐳 Playing around with **Docker, CI/CD pipelines, and backend automation**  
+- 📘 Reading up on **agentic and passive AI systems** to understand how they evolve  
+
+---
+
+## 🧰 Tech Stack  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+🔹 **[Echo Task](https://github.com/Jeevana-Sree/echo-task)**  
+A browser-based speech-to-reminder system that uses NLP, PostgreSQL, and Docker with CI/CD setup.  
+
+🔹 **[Drone Flight Prediction](https://github.com/Jeevana-Sree/Drone-Flight-Prediction)**  
+Predicts drone flight time using machine learning and real-world flight data.  
+
+🔹 **[Smart Combo Meal Generator](https://github.com/Jeevana-Sree/Intelligent-Food-Combo-Generator-and-Price-Optimization)**  
+Recommends optimized meal combos and predicts prices using clustering + regression.  
+
+---
+
+## ☕ Outside of Work  
+
+When I’m not staring at logs or training models,  
+you’ll find me learning something random, sketching ideas, or just fixing that one line of code that refuses to work.  
+
+---
+
+## 📫 Get in Touch  
+
+<p align="left">
+  <a href="mailto:Jeevanasree2k3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jeevanasreeb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=ML+Enthusiast;DevOps+Engineer;DS+Researcher;Tech+Explorer&center=true&width=500&height=45" />
+  <img src="https://komarev.com/ghpvc/?username=Jeevana-Sree&label=Profile%20Views&color=gray&style=flat" alt="profile views" />  
 </p>
 
 <p align="center">
-  <code>CODE ➜ BUILD ➜ DEPLOY ➜ REPEAT 🔁</code>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jeevana-Sree&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 💻 About Me
-
-🧠 Exploring the synergy between Machine Learning and DevOps  
-🛠️ Currently building: [Echo Task](https://github.com/Jeevana-Sree/echo-task) [Smart Meal Combo Generator & Price Optimization](https://github.com/Jeevana-Sree/Intelligent-Food-Combo-Generator-and-Price-Optimization) 
-📍 Based in India, passionate about AI and intelligent systems  
-
-#### 💡 Quick Facts
-
-🌱 I’m currently learning: Advanced DSA, Cloud Computing, DevOps  
-👯 I’m looking to collaborate on: ML-powered SaaS apps & AI for social good  
-🤔 I’m looking for help with: Real-time deployment of ML models using CI/CD pipelines  
-
----
-
-### 🧠 Skills
-
-- **Languages**: Python, SQL, Java 
-- **DevOps & Cloud**: Docker, Jenkins, GitHub Actions, AWS, CI/CD  
-- **Database**: MySQL, PostgreSQL  
-- **ML & Data Science**: Scikit-learn, Pandas, NumPy, Matplotlib, NLTK  
-
----
-
-### 🚀 Featured Projects
-
-[🗣️ Echo Task – DevOps CI/CD with Docker](https://github.com/Jeevana-Sree/echo-task)  
-Automates the software development lifecycle with containerized voice-to-text reminders and GitHub Actions.
-
-[🔋 Drone Flight Time Prediction](https://github.com/Jeevana-Sree/Drone-Flight-Prediction)  
-A machine learning model to predict drone flight time based on sensor and weather data using regression techniques.
-
-[🥗 Smart Meal Combo Generator & Price Optimization](https://github.com/Jeevana-Sree/Intelligent-Food-Combo-Generator-and-Price-Optimization)  
-Combines recommendation systems and optimization algorithms to personalize healthy meal combos at optimal cost.
-
----
-
-### ✍️ Blogs
-
-📌 [In Pursuit of Artificial Intelligence – Unraveling the Why & the Endgame](https://www.linkedin.com/pulse/pursuit-artificial-intelligence-unraveling-why-endgame-sree)  
-📌 [The Pioneering Role of AI/ML & DS in Chandrayaan 3](https://www.linkedin.com/pulse/pioneering-role-ai-ml-ds-chandrayaan-3-jeevana-sree-b/)  
-📌 [Why Data Science is the Best Career](https://www.linkedin.com/pulse/why-data-science-best-career-jeevana-sree-b)  
-
----
-
-### 🏆 Achievements
-
-👩‍💻 Internship in Data Analytics  
-📜 Certified in Machine Learning, DevOps, and Cloud Computing  
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jeevana-sree/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Jeevana-Sree)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevana-sree&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevana-sree&layout=compact" alt="Top Languages" />
-</p>
-
+⭐️ *Always curious. Always building.*
