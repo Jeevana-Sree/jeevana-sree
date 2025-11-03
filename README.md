@@ -1,4 +1,4 @@
-# Hey, I'm Jeevana Sree Bachala
+# Hey, I'm Jeevana
 
 **SDE Intern @ [ConverseNow AI](https://www.conversenow.ai/)**  
 Building things at the intersection of **AI, Go, and DevOps**.
@@ -46,14 +46,6 @@ Predicts drone flight time using real-world data and ML models.
 
 **[Smart Combo Meal Generator](https://github.com/Jeevana-Sree/Intelligent-Food-Combo-Generator-and-Price-Optimization)**  
 Suggests meal combinations and predicts prices using clustering and regression.  
-
----
-
-### Achievements
-
-- Patent: *Autonomous Drone-Based Forest Monitoring System*  
-- NPTEL Certified in *Natural Language Processing*  
-- Built interactive dashboards for *Customer Segmentation* and *Marketing ROI*
 
 ---
 
